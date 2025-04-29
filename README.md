@@ -24,7 +24,7 @@ The COVID-19 outbreak started in December of 2019 and was declared a pandemic by
 
 ## Results
 
-Population was not found to be a significant factor in cases or deaths in the United States or worldwide.Linear models that included only population as the predictor resulted in p-values for population well above any acceptable significance factor. The only linear model that performed reasonably well had deaths per thousand as the response variable and included the predictors for geospatial data in the United States. In this model the predictor for latitude had a significant negative relationship with deaths per thousand. Meaning as there is a relationship between decreasing latitude, in the United States that translates to moving more southernly, and an increase in deaths related to COVID-19. 
+Population was not found to be a significant factor in cases or deaths in the United States or worldwide. Linear models that included only population as the predictor resulted in p-values for population well above any acceptable significance factor. The only linear model that showed significance had deaths per thousand as the response variable and included the predictors for geospatial data in the United States. In this model the predictor for latitude had a significant negative relationship with deaths per thousand. Meaning there is a relationship between decreasing latitude, which in the United States translates to moving more southernly, and an increase in deaths related to COVID-19.
 
 ## References
 World Health Organization: WHO. (2024, February 20). Coronavirus disease (COVID-19) pandemic. https://www.who.int/europe/emergencies/situations/covid-19
