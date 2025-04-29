@@ -17,6 +17,9 @@ The COVID-19 outbreak started in December of 2019 and was declared a pandemic by
 ![us_cases_map](https://github.com/user-attachments/assets/238c88ce-72e8-4f3e-9785-204fd66cc354)
 ![us_deaths_map](https://github.com/user-attachments/assets/6e1e4211-f84b-4b5f-9c7b-250f0ac50c45)
 
+![co_county_cases_map](https://github.com/user-attachments/assets/354bee70-0066-442b-872f-3cd713224c48)
+![co_county_deaths_map](https://github.com/user-attachments/assets/52920a16-6186-4f9d-9ea0-6f5ed21349d5)
+![co_county_pop_map](https://github.com/user-attachments/assets/8e860beb-70ab-486b-9101-b86148e136d5)
 
 ### References
 World Health Organization: WHO. (2024, February 20). Coronavirus disease (COVID-19) pandemic. https://www.who.int/europe/emergencies/situations/covid-19
