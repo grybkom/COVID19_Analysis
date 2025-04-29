@@ -24,8 +24,6 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(lubridate)
 library(maps)
-library(ggmap)
-library(mapproj)
 ```
 
 # Read in Data
